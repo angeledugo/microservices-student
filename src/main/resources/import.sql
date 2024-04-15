@@ -1,0 +1,1 @@
+insert into students (name, lastname, email) values("Pedro", "Vera","pedro@gmail.com");
